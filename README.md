@@ -42,8 +42,8 @@ Reply with a 🟢 / 🟠 source badge
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/argue-with-history.git
-cd argue-with-history
+git clone https://github.com/sasthaathangam-png/Argue-with-history.git
+cd Argue-with-history
 
 # 2. Install dependencies
 python -m pip install -r requirements.txt
@@ -63,7 +63,7 @@ Then open <http://localhost:8501>.
 ## 📁 Project structure
 
 ```
-argue-with-history/
+Argue-with-history/
 ├── app.py            # Streamlit UI, Gemini calls, retry logic
 ├── persona.py        # Figures, modes, languages, system prompt
 ├── rag.py            # Wikipedia download + keyword retrieval
