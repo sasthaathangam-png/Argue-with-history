@@ -1,0 +1,8 @@
+.env
+__pycache__/
+data/
+db/
+testdb/
+test.py
+t.py
+t2.py
